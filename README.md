@@ -10,9 +10,8 @@ The project is adapted from UCB CS118 and Stanford CS231
    
 ## Details
 **Project1-Pacman**
-
-    * In this project, my Pacman agent will find paths through the maze world, both to reach a particular location and to collect food efficiently. I will build general search algorithms and apply them to Pacman scenarios. (Key words: DFS, BFS, UCS, A* Search, Heuristic function, Greedy)
-    * You can see the detail of project [here](./Project1_Pacman/search2019_2.zip) and my report [here](./Project1_Pacman/Report.pdf)
+    -In this project, my Pacman agent will find paths through the maze world, both to reach a particular location and to collect food efficiently. I will build general search algorithms and apply them to Pacman scenarios. (Key words: DFS, BFS, UCS, A* Search, Heuristic function, Greedy)
+    -You can see the detail of project [here](./Project1_Pacman/search2019_2.zip) and my report [here](./Project1_Pacman/Report.pdf)
     
 **Project2_Nqueens**
     * In this project, I am going to construct a CSP for N-Queens problem.(Key words: Backtracking, CSP, AC-3)
