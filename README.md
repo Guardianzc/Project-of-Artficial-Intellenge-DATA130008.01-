@@ -7,3 +7,21 @@ The project is adapted from UCB CS118 and Stanford CS231
    * [Project3_Blackjack](./Project3_Blackjack)
    * [Project4_Cars](./Project4_Cars)
    * [FinalProject_GOMOKU](./FinalProject_GOMOKU)
+   
+## Details
+### Project1-Pacman
+    * In this project, my Pacman agent will find paths through the maze world, both to reach a particular location and to collect food efficiently. I will build general search algorithms and apply them to Pacman scenarios. (Key words: DFS, BFS, UCS, A* Search, Heuristic function, Greedy)
+    * You can see the detail of project (here)[./Project1_Pacman/search2019_2.zip] and my report (here)[./Project1_Pacman/Report.pdf]
+    
+### Project2_Nqueens
+    * In this project, I am going to construct a CSP for N-Queens problem.(Key words: Backtracking, CSP, AC-3)
+    * You can see the detail of project (here)[./Project2_Nqueens/pj2.zip] and my report (here)[./Project2_Nqueens/Report.pdf]
+
+### Project3_Blackjack
+    * In this project, I implement algorithms to find the optimal policy in some situations, also I formalize a modified version of Blackjack as an MDP, and apply the algorithm to find the optimal policy.(Key words: MDP)
+    * You can see the detail of project (here)[./Project3_Blackjack/index.html] and my report (here)[./Project3_Blackjack/Report.pdf]
+    
+### Project4_Cars
+    * This project is a modified version of the Driverless Car assignment written by Chris Piech.
+    * In this project, I focus on the sensing system, which allows us to track other cars based on noisy sensor readings.(Key words: Bayesian network basics, Emission probabilities, Transition probabilities, Particle filtering)
+    * You can see the detail of project (here)[./Project4_Cars/pj4.pdf] and my report (here)[./Project4_Cars/Report.pdf]    
