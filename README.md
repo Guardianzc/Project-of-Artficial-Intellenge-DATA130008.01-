@@ -31,4 +31,3 @@ The project is mainly adapted from UCB CS118 and Stanford CS231.
 * In this project, we design a fast and effective search algorithm for Gomoku playing.
 * We use MCTS and Minimax search with $\alpha$-$\beta$ pruning algorithm for Gomoku and add the threat space algorithm to directly find those high-threat points in order to save search time. The  pruning  algorithm  can  reach  the  chess  power  of pisq7, which won the 24th place in the Gomoku AI Contest 2015.
 * You can see the detail of project [here](./FinalProject_GOMOKU/Final_PJ.pdf) and my report [here](./FinalProject_GOMOKU/Alpha_Beta_Pruning_with_Thread_DetectionAlgorithm_for_Gomoku.pdf)
-* More details about the project is updating...
