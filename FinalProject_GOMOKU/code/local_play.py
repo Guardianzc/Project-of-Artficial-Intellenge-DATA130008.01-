@@ -20,16 +20,16 @@ def board_v():
 def local_start():
     
     while 1:
-        print('——现在开始和我的sbAI下棋——输入exit退出————')
-        x,y = input("到你了, 输入x y坐标，不想玩就输exit exit，傻逼:").split()
+        print('——现在开始和我的AI下棋——输入exit退出————')
+        x,y = input("到你了, 输入x y坐标，不想玩就输exit:").split()
         print()
         if x == 'exit':
-            print('操你妈，傻逼')
+            print('对局结束')
             return None
         try:
             brain_opponents(int(x), int(y))
         except ValueError or IndexError:
-            print('超出范围了！！！！我把你妈操蹦起来')
+            print('超出范围了！')
             continue
         break
     return 0
